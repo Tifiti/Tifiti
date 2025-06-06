@@ -137,7 +137,7 @@ export default function Component() {
               <CardHeader>
                 <CardTitle>Starter</CardTitle>
                 <CardDescription>Perfect for small teams getting started</CardDescription>
-                <div className="mt-4">
+                <div className="mt-4"</div>
                   <span className="text-3xl font-bold">$29</span>
                   <span className="text-muted-foreground">/month</span>
                 </div>
